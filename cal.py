@@ -1,3 +1,7 @@
+'''create with virtual environment so installed below libraries in terminal. consider to install libraries 
+before run the code''''
+
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
